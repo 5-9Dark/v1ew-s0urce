@@ -1,5 +1,5 @@
-#!/usr/bin/env python3
-# -*- encoding: UTF-8 -*-
+#!/bin/bash
+#
 #
 # =========================================================
 # .________     /\  ________________                __    
@@ -10,3 +10,4 @@
 #       \/  \/                      \/     \/           \/
 #  - Made with <3 by the FiveNineDark Dev team  
 #   Run this script to install tool
+
