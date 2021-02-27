@@ -7,12 +7,12 @@
 A Penetration Testing Framework, Scanner and more.
 
 # v1ew-s0urce is made in python and ready to install everywhere
-To learn how to install on your device, check out this wiki.
+To learn how to install on your device, check out [this wiki](https://github.com/5-9Dark/v1ew-s0urce/wiki/How-to-install).
 
 # JOIN THE DISCORD!
 We're still building this tool, please check out our discord!
 + [Discord](https://discord.gg/BaBpuPn)
 + [Discord ShortURL](https://59dark.ml/discord)
-+ [FiveNineDark Resource Database](https://discord.gg/
++ [FiveNineDark Resource Database](https://discord.gg/r6ESwSVhrS)
 ### While your at it check out the Website!
 + [fiveninedark.com](https://fiveninedark.com/)
